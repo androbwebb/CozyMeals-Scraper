@@ -1,0 +1,27 @@
+Server: nginx
+Date: Fri, 16 Jul 2021 17:07:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Permitted-Cross-Domain-Policies: none
+X-Varnish-Ttl: 0
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Ua-Compatible: IE=edge
+Set-Cookie: mgrefby="https://www.google.com/search?q=cooking+classes+austin&gws_rd=ssl"; Domain=.eventbrite.com; expires=Sat, 16-Jul-2022 17:07:43 GMT; httponly; Max-Age=31536000; Path=/; secure; SameSite=None; Secure
+Set-Cookie: G=v%3D2%26i%3D448537b5-7da3-43ee-839e-ea921357bb37%26a%3De91%26s%3Df7589209bf05b3b563ad2d086a0d2327fde017a7; Domain=.eventbrite.com; expires=Sat, 16-Jul-2022 17:07:43 GMT; httponly; Path=/; secure; SameSite=None; Secure
+Set-Cookie: ebEventToTrack=; Domain=.eventbrite.com; expires=Sun, 15-Aug-2021 17:07:43 GMT; httponly; Path=/; secure; SameSite=None; Secure
+Set-Cookie: SS=AE3DLHSEmnZV0xU7jqDze690e6GYuok40Q; Domain=.eventbrite.com; httponly; Path=/; secure; SameSite=None; Secure
+Set-Cookie: eblang=lo%3Den_US%26la%3Den-us; Domain=.eventbrite.com; expires=Sat, 16-Jul-2022 17:07:43 GMT; httponly; Path=/; secure; SameSite=None; Secure
+Set-Cookie: AN=; Domain=.eventbrite.com; expires=Sun, 15-Aug-2021 17:07:43 GMT; httponly; Path=/; secure; SameSite=None; Secure
+Set-Cookie: AS=4870fa8c-1a14-45e0-9be1-d6dbf246fdfc; Domain=.eventbrite.com; httponly; Path=/; secure; SameSite=None; Secure
+Set-Cookie: mgref="nsrch_google_unb|cooking classes austin|"; Domain=.eventbrite.com; expires=Sat, 16-Jul-2022 17:07:43 GMT; httponly; Max-Age=31536000; Path=/; secure; SameSite=None; Secure
+Set-Cookie: SP=AGQgbbnMHmt5ALRaAsbCMs_tzqcUEvAq-mIwBvtstGSdIwhNzKm_NCMiKR5Qiw2mQv9x_JEcB_LQrJQz0DmLguPvxmhZPmKarp0XRggg5q--7GV3StuXxWVqSmkI8m9rZUb8gh89L9xRxB0LPc0cjYu3sP4KVCUipMmq0LVNJGaeV0I4mrMWjAWc4m6FatBWtgj8Kvk9TsZubUShwibyBjUdo_p1PqR_OqUjmS1JdPTSYcAQ3Lp32_Y; Domain=.eventbrite.com; httponly; Path=/; secure; SameSite=None; Secure
+Set-Cookie: csrftoken=5599e144e65811ebae2b9b54a31e01db; Domain=.eventbrite.com; Max-Age=31449600; Path=/; secure; SameSite=None; Secure
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Varnish: 179804426
+Age: 0
+Via: 1.1 varnish (Varnish/5.1)
+Accept-Ranges: bytes

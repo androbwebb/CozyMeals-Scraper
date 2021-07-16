@@ -1,0 +1,16 @@
+Cache-Control: max-age=0, private, must-revalidate
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Etag: "301c5107d236797a61ca1c12e03bd9d2"
+Last-Modified: Thu, 10 Jul 2014 21:11:44 GMT
+Set-Cookie: _chow_session_05_production=UjF2bEIxdzkya1poZnNDOWxxdXFrS29hTlRpa25OWWg3ZDV5ajdBcXA0VmZsSTZSQ3dDN3dSd2kyNy8yaW01UGJQN2o0dStWbHNmb1dmOFRLZVNJQSszUkFoWUZnZGxkaFM3Q09FTlVSY0tXMGJsUTRwcmJrVDRXeTFDUkF4bDYwZjZwY0dxTlFZU2lyTnQ3WDVhREtVS0FHMytKYmV5SnFLRkhNYVkrRStJaTB4Yk5kSjZJdFVMbmJnSEdzdmxHc01oVktTbmdWNitoZTdyUHl6SjNVOFl5c2FDZkF5UEl4dGExY1hqc0t0dz0tLXdKYXppYlYwTk8rMTBBTjkrTTFTMFE9PQ%3D%3D--f010a8d2f1a986c57a46dc1b7cb6940682934f0e; domain=.chowhound.com; path=/; HttpOnly
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Origin-Vary: User-Agent,Accept-Encoding
+Cdn-Origin-Vary: User-Agent,Accept-Encoding, x-cdn-debug
+Date: Fri, 16 Jul 2021 17:07:43 GMT
+Vary: Accept-Encoding, User-Agent
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *

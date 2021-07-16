@@ -1,0 +1,8 @@
+Cache-Control: no-cache, private
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 16 Jul 2021 18:15:20 GMT
+Server: nginx
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkNMYTRPY2VcL2drWVZhK1g3S1orYUR3PT0iLCJ2YWx1ZSI6IlJTdE1sVGE0Y0RtM0NheWlmVEZNTUp2cTZZS3VmM2lYa2E1aFdjK1wvaXE5YUNRNGY1ZmlsN1dxaGk4eDFiVlA4IiwibWFjIjoiNjZjMGUzOTE4OTcxYmY1Njk5N2RjMDBiNWNlMTAwNmZmOGQ4ZTBiOTZhNmNlNTc0ZjViMzU0MTFjNjljOGU0YyJ9; expires=Tue, 14-Sep-2021 18:15:20 GMT; Max-Age=5184000; path=/
+Set-Cookie: cozymeal_session=eyJpdiI6IjFFcWlOR0tsTVgzMFlaa3U5cEM1Zmc9PSIsInZhbHVlIjoiM1F1RE1pbXhJczZPZlwva2FJQzdyYWdtUFdBcVdjU3NZNWZGd0NCcGcza2JsKytoNHZuWVVhemppelBOQWxJWFUiLCJtYWMiOiI3Yjg0ZGU3ZjgwNGIyNThiYTY0MWFjNDk5NDVkNjZmZmVjZjk5ZGZlMzM4YTM0ZDQ5YzZlYjg0MzVmMGU5NmRlIn0%3D; expires=Tue, 14-Sep-2021 18:15:20 GMT; Max-Age=5184000; path=/; httponly
+Vary: Accept-Encoding

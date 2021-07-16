@@ -1,0 +1,11 @@
+Date: Fri, 16 Jul 2021 17:07:44 GMT
+Pragma: no-cache
+Cache-Control: no-cache
+Location: /thaifood/thai-bacon-som-tum-zoodles/
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=v6ZH7AhGGkjZBM6hc7W83CEokAzR5t0m3qNuLGASe8mSjCuNkoQj66YuWb5M6IlMsc7SxZ9oe2damlPETf%2FuRFTY2CdCkinuhbkXL5VdWOPEj2VbqSvnjBl7FGZQf0WhEcaWMAdl"}],"group":"cf-nel","max_age":604800}
+Nel: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 66fcd41a482e2b1c-ORD
+Alt-Svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400

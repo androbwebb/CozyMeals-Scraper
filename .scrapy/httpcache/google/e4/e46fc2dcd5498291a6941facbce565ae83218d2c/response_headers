@@ -1,0 +1,21 @@
+Date: Fri, 16 Jul 2021 17:07:45 GMT
+Content-Type: text/html; charset=UTF-8
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Run-Id: 47d176a0e6e7c9a2
+Set-Cookie: ttsession=zDucxixHtDzhIqTi2T7Ooz; path=/; domain=thumbtack.com; secure; HttpOnly
+Set-Cookie: s=tgnwx8AjewJiwFCNyA.9h7cwTFUOxH-Ut6kyFKPjJsE; path=/; domain=thumbtack.com; secure; HttpOnly
+Set-Cookie: p=UyIPKonci0l1j2VJxxIgx9GqIzOPyjGgPo-HYGM5fKA; expires=Sat, 14-Jul-2029 17:07:45 GMT; Max-Age=252288000; path=/; domain=thumbtack.com; secure; HttpOnly
+Set-Cookie: ut=52CJ8d1JgjK7FTW6vWT66SeEEBlxjeUT9onaFDtD3qE; expires=Fri, 30-Jul-2021 17:07:45 GMT; Max-Age=1209600; path=/; domain=thumbtack.com; secure; HttpOnly
+Set-Cookie: tt_utm_entries=zDucxixHtDzhIqTi2T7Ooz%7C1626541665%7CeJybOAEAAbQBIg%7C172e6997786092bbb032a4466278567420108384520ad8c041840ad1f1d5462a; expires=Sat, 17-Jul-2021 17:07:45 GMT; Max-Age=86400; path=/; domain=thumbtack.com; secure; HttpOnly
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Security-Policy-Report-Only: default-src https: 'unsafe-inline'; img-src blob: data: https:; report-uri /csp-violation-report
+Content-Security-Policy: frame-ancestors 'self' https://help.thumbtack.com
+X-Frame-Options: allow-from https://help.thumbtack.com
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: max-age=0, no-store
+X-Jointhumbtack: We're hiring! Tell us how you got here.
+X-Envoy-Upstream-Service-Time: 576

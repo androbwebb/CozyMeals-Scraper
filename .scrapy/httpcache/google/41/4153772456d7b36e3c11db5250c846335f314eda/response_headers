@@ -1,0 +1,41 @@
+Date: Fri, 16 Jul 2021 17:07:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 167
+X-Sorting-Hat-Shopid: 52777582760
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: secure_customer_sig=; path=/; expires=Sat, 16 Jul 2022 17:07:43 GMT; secure; HttpOnly
+Set-Cookie: cart_currency=USD; path=/; expires=Fri, 30 Jul 2021 17:07:43 GMT
+Set-Cookie: _shopify_evids=pv%3Dcc41ad8eb86ecc6ec5df397811de7329a635eb43c70b003645e3aeaf0e6337e4; path=/
+Set-Cookie: _orig_referrer=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dcooking%2Bclasses%2Baustin%26gws_rd%3Dssl; Expires=Fri, 30-Jul-21 17:07:43 GMT; Domain=faradayskitchenstore.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcooking-classes-in-austin; Expires=Fri, 30-Jul-21 17:07:43 GMT; Domain=faradayskitchenstore.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _y=521e16f8-7bac-4d88-b18c-3e3cb8f315c2; Expires=Sat, 16-Jul-22 17:07:43 GMT; Domain=faradayskitchenstore.com; Path=/; SameSite=Lax
+Set-Cookie: _s=dad1cb0d-1376-4d41-bc8c-73d3bbf5fb1e; Expires=Fri, 16-Jul-21 17:37:43 GMT; Domain=faradayskitchenstore.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=521e16f8-7bac-4d88-b18c-3e3cb8f315c2; Expires=Sat, 16-Jul-22 17:07:43 GMT; Domain=faradayskitchenstore.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=dad1cb0d-1376-4d41-bc8c-73d3bbf5fb1e; Expires=Fri, 16-Jul-21 17:37:43 GMT; Domain=faradayskitchenstore.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; rel=preconnect; crossorigin
+Etag: cacheable:d7131d7c949aeee720b800e09b7e2742
+X-Alternate-Cache-Key: cacheable:97ecb828ec7d2db51ea3a8463ba482ac
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 52777582760
+X-Shardid: 167
+Vary: Accept
+Content-Language: en
+X-Shopify-Stage: production
+X-Dc: gcp-us-east1,gcp-us-east1,gcp-us-east1
+X-Request-Id: 39b3013b-af88-49a9-b1af-cc8bf7d903fa
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+Nel: {"report_to":"network-errors","max_age":2592000,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifysvc.com/v1/reports/nel/20190325/shopify"}]}
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 66fcd41329d257f1-IAD
+Alt-Svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400

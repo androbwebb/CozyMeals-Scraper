@@ -1,0 +1,20 @@
+Content-Length: 158478
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://fonts.gstatic.com>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+Etag: W/"24de8f80aaa552eee25432edadbfa494"
+Content-Language: en
+Strict-Transport-Security: max-age=120
+X-Wix-Request-Id: 1626328040.6105428105355415737
+Cache-Control: public,max-age=0,stale-while-revalidate=5
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: Pepyaka/1.19.0
+Accept-Ranges: bytes
+Date: Fri, 16 Jul 2021 17:07:43 GMT
+Age: 156838
+X-Served-By: cache-wdc5539-WDC
+X-Cache: HIT
+Vary: Accept-Encoding
+Server-Timing: cache;desc=hit, varnish;desc=hit_hit, dc;desc=fastly
+Set-Cookie: ssr-caching=cache#desc=hit#varnish=hit_hit#dc#desc=fastly; Max-Age=20; Expires=Wed, 14 Jul 2021 21:34:04 GMT
+X-Seen-By: roqoaVaG/Y0K4FDXPQbYVA==

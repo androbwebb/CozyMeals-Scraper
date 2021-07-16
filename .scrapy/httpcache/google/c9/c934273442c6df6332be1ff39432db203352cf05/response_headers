@@ -1,0 +1,23 @@
+Content-Type: text/html;charset=utf-8
+X-Abt-Application-Version: 5.101.0
+Strict-Transport-Security: max-age=15552000
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.thespruceeats.com
+X-Content-Security-Policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.thespruceeats.com
+Set-Cookie: TMog=nbfb5b02e646c4c8da65255790fda339917; Path=/; Domain=.thespruceeats.com; Expires=Wed, 03-Aug-2089 20:21:53 GMT; Max-Age=2147483647
+Set-Cookie: Mint=nbfb5b02e646c4c8da65255790fda339917; Path=/; Domain=.thespruceeats.com; Expires=Fri, 16-Jul-2021 17:37:46 GMT; Max-Age=1800
+Set-Cookie: pc=1; Path=/; Domain=.thespruceeats.com; Expires=Fri, 16-Jul-2021 17:37:46 GMT; Max-Age=1800
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: max-age=1800, private
+Link: <//www.thespruceeats.com/static/5.101.0/cache/eNqdVVuSpTAI3dCkXMT89iYwoWOqY7ACds-d1Q_R62s6eq3-kUcgIBxIwwISbGOZm8Lir2anCT14NEMEix1Fh_lwyvKIyJuK-oESJuEGsioiLvTKRPCPmAGYNdJBuHGvsZRED9Qyj1bGjG5VzQmu6hhYajd-BedRaYfBd_K7g-TxTW0xYa4qr9JiGrNFXmjNNMFn8Kqk1Ah4o-JCX1jHkD6mv9i4mkepoOYNLiS_0DuV7FHgIFwVS4iihGGhNdP2oWli0wYyF1b_Z_H0WsVr7111mGyAOJVzY2s-PlILcarM1GBw9Za2owilhdYsenQBmkiepk_N5J1yr2hAyLYzRdjz9xzkMSCUNK_68fxl7iDjBPw-iYo77W3vu04ZFYGdJkzOzPwpGqehbiPZjx37op_vY4xsM2KaenoUa75lHnRf6fQretO4ca8CQR_iYw6ysucBemBK-TEP4l4wjLZcWEXKmdMP4lSxWgrKjYXs5u85XKeFPn9P-1Wm3xy5SyToQfIrvWNaIDrzFyOq0BId0ZmcD0vCL44oamM4-DQO3zVVCPzQbUNORzn81cfmuXaO4qvVX-ag7PGNu9y3edTHx7Tgyhu5E16EcSQOuDNjCp-Y-ZlpqX715B_cPBxS.min.css>; rel=preload; as=style; nopush, <//www.thespruceeats.com/static/5.101.0/font/WorkSans-Regular.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.thespruceeats.com/static/5.101.0/font/WorkSans-Medium.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.googletagmanager.com/gtm.js?id=GTM-5P3SZGS>; rel=preload; as=script; nopush, <//www.google-analytics.com/analytics.js>; rel=preload; as=script; nopush, <//www.googletagservices.com/tag/js/gpt.js>; rel=preload; as=script; nopush, <//www.thespruceeats.com/static/5.101.0/cache/eNptj2sSwiAMhC8kw2W8AIW0Rh7BEHTw9KLT6dDan_l2s9noIkbQ6nvRgYwDd9ErCTiVL27G1w32OVNoM4YwsickR6wjOeCEb1bRJAkwWiyRRyh_8Y8K3IowpmW0V8GAMi50OCd1yh3Fc2HtJTcmOfRh6GKFKxvrD7cnBuMzYZJdWDRt2kVks4B6Irw2aClmStAX9SLx93ZA65WsVz6Sn4nf.min.js>; rel=preload; as=script; nopush; group=top, <//www.thespruceeats.com/static/5.101.0/cache/eNqNUltygzAMvFBdH6K__esJDAhbiZCpJUrJ6WMIydDiMJnxjKzVrl62FXWKtSWsxJ7y-R4gTW92hTMyKBIqgphqQFIzogbzj3ZXk7tMgheQbYKOlb7qFIkeaB27PjKwikVWSOzINtBCmvnLJUFTYrvOXSIb17a5Kadg1Hl_kz0JFbM8OIR8NgnGhLpmKYdKWeD31nmedyEvG9iBux1Jds5ThSqlpCM2HrINgD7oR3Ds4RNFgXN_JXC76R_gJqa1gjmjHlXQGEmxv9sStZryCGArjOaA5SlW-f0CuGbpcTYlXhtTl8cHl-pgZsfq1IObBe_VwA3Ba6oENfZgNtDRmBJrdGQkuATL-jf-kS4BoYRZcbvt3vE05D23CI2pIw0dF5-zcxI5TfkriP5xDkvnAPulyHp9vhiGUQg0fzoj6Hno90hJ_ILsCiqTlVc.min.js>; rel=preload; as=script; nopush; group=bottom
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+Nel: {"report_to":"network-errors","max_age":2592000,"success_fraction":0,"failure_fraction":1.0, "include_subdomains": true}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://r.3gl.net/hawklogserver/559/re.p"}]}
+Date: Fri, 16 Jul 2021 17:07:46 GMT
+X-Served-By: cache-bwi5175-BWI, cache-wdc5556-WDC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1626455266.267066,VS0,VE127

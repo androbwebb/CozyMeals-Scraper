@@ -1,0 +1,32 @@
+Content-Type: text/html; charset=UTF-8
+Origin-Trial: Ag7UdgDK/HzImPsLuiVZECZbFotnD6x1LotVig7qNGIGP5uTFTjfkrXH50rAOosFN8yqAVyquvyOHSvc8z7bnggAAABmeyJvcmlnaW4iOiJodHRwczovL3llbHAuY29tOjQ0MyIsImZlYXR1cmUiOiJJbnRlcmVzdENvaG9ydEFQSSIsImV4cGlyeSI6MTYyNjIyMDc5OSwiaXNTdWJkb21haW4iOnRydWV9
+X-Routing-Service: routing-main--useast1-c6fb56896-fg6b2; site=www
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: envoy
+Referrer-Policy: origin-when-cross-origin
+X-Zipkin-Id: 3a57d0db969e7cee
+X-Content-Type-Options: nosniff
+Set-Cookie: pid=; Domain=.yelp.com; Max-Age=0; Path=/; expires=Wed, 31-Dec-97 23:59:59 GMT
+Set-Cookie: bse=d2b968c939f44349a3c12ab1e3affad2; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22parent_id%22%3A+1146%2C+%22country%22%3A+%22US%22%2C+%22max_latitude%22%3A+30.4582596%2C+%22min_latitude%22%3A+30.152154%2C+%22address2%22%3A+%22%22%2C+%22city%22%3A+%22Austin%22%2C+%22unformatted%22%3A+%22Austin%2C+TX%22%2C+%22min_longitude%22%3A+-97.875001%2C+%22max_longitude%22%3A+-97.6405651%2C+%22place_id%22%3A+%221251%22%2C+%22provenance%22%3A+%22YELP_GEOCODING_ENGINE%22%2C+%22latitude%22%3A+30.26725928761021%2C+%22location_type%22%3A+%22locality%22%2C+%22zip%22%3A+%22%22%2C+%22longitude%22%3A+-97.74405013984375%2C+%22accuracy%22%3A+4%2C+%22state%22%3A+%22TX%22%2C+%22display%22%3A+%22Austin%2C+TX%22%2C+%22address1%22%3A+%22%22%2C+%22county%22%3A+%22Travis+County%22%2C+%22address3%22%3A+%22%22%2C+%22borough%22%3A+%22%22%2C+%22isGoogleHood%22%3A+false%2C+%22language%22%3A+null%2C+%22neighborhood%22%3A+%22%22%2C+%22polygons%22%3A+null%2C+%22usingDefaultZip%22%3A+false%2C+%22confident%22%3A+null%2C+%22place_key%22%3A+%22TX%3AAustin%3A%3A%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Thu, 11-Jul-2041 17:07:45 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Thu, 11-Jul-2041 17:07:46 GMT
+Set-Cookie: wdi=1|09373F11374704B7|0x1.83c6f3831fcb1p+30|91d8df9187bb5500; Domain=.yelp.com; Path=/; Max-Age=630720000; Expires=Thu, 11 Jul 2041 17:07:46 GMT; HttpOnly; SameSite=Lax
+X-Node: www_all
+X-Node: yelp-main-main--useast1-6c68f49548-gsh4s
+X-B3-Sampled: 0
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Cloudmap: routing_useast1
+X-Mode: ro
+X-Proxied: 10-65-160-255-useast1bprod
+Content-Encoding: gzip
+X-Extlb: 10-65-160-255-useast1bprod
+Cache-Control: max-age=0, no-store, private, no-transform
+Accept-Ranges: bytes
+Date: Fri, 16 Jul 2021 17:07:46 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dca17754-DCA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1626455265.773853,VS0,VE1776
+Vary: Accept-Encoding

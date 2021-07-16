@@ -1,0 +1,10 @@
+Content-Length: 0
+Date: Fri, 16 Jul 2021 17:07:43 GMT
+Location: https://www.thai-fresh.com/
+Strict-Transport-Security: max-age=120
+Age: 1878
+Server-Timing: cache;desc=hit, varnish;desc=hit, dc;desc=42
+X-Seen-By: 6ivkWfREES4Y8b2pOpzk7Owfbs+7qUVAqsIx00yI78k=,sHU62EDOGnH2FBkJkG/Wx8EeXWsWdHrhlvbxtlynkVihnQVYpfofwhBhTRHXuy5t,m0j2EEknGIVUW/liY8BLLpKOvBhYRuLEqdCLHFrW+6dGkFvVdT2Nq6f3Hedj7ewB,2d58ifebGbosy5xc+FRalj3j31jBIMjSVWw5pjmuQ6nj/9KjD8wAva8eAkj8gZBX5A7xHvwUKeOarn7x+JIn+w==,2UNV7KOq4oGjA5+PKsX47Pbq5L2f1BUyHdZoqHrCK0AfbJaKSXYQ/lskq2jK6SGP
+Cache-Control: no-cache
+X-Wix-Request-Id: 1626455263.1935632935125328196
+X-Content-Type-Options: nosniff

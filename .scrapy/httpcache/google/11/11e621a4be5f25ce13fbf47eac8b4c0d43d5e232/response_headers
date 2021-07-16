@@ -1,0 +1,36 @@
+Content-Type: text/html; charset=utf-8
+X-B3-Traceid: 3aac4e18fcd24167959175d78d692161
+Set-Cookie: s=51b7747e-76a1-4b3f-b774-7e76a17b3faf; Max-Age=1800; Domain=.groupon.com; Path=/; Secure; SameSite=None
+Set-Cookie: user_locale=en_US; Max-Age=15811200; Domain=.groupon.com; Path=/; Secure; SameSite=None
+Set-Cookie: _csrf=mtbsd8I19hbkoXuVzNvc_WMX; Path=/; HttpOnly
+Set-Cookie: division=worcester; Max-Age=157680000; Domain=.groupon.com; Path=/; Expires=Wed, 15 Jul 2026 17:07:45 GMT
+Set-Cookie: ipll=%7B%22lat%22%3A%2242.309%22%2C%22lng%22%3A%22-71.800%22%2C%22ip%22%3A%22128.92.32.151%22%7D; Max-Age=1800; Domain=.groupon.com; Path=/; Secure; SameSite=None
+Set-Cookie: pageId=51b7747e-76a1-4b3f-b774-7e76a17b3faf-1626455265146-TH0; Domain=.groupon.com; Path=/; Secure; SameSite=None
+Set-Cookie: s=51b7747e-76a1-4b3f-b774-7e76a17b3faf; Max-Age=1800; Expires=Fri, 16 Jul 2021 17:37:45 GMT; Path=/; Domain=.groupon.com
+Set-Cookie: b=2287c1b0-f0b2-a355-0a81-24be16fd03b2; expires=Mon, 14-Jul-2031 17:07:45 GMT; path=/; domain=.groupon.com
+Set-Cookie: bucket=441; expires=Mon, 14-Jul-2031 17:07:45 GMT; path=/; domain=.groupon.com
+Set-Cookie: akavpau_lottery=1626455565~id=6c04175818f6265204d2e8d00ac8220e; Path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: _abck=020C75F2E72EA92FC01FCDCB771FD1E3~-1~YAAQpFoauOK5Zl96AQAA79BJsAaIrNj3bx1vy5/c/6+b5/QVv+V7JfzFlXo4DSzywtxkUO2+/BwvG2xKb7sYkJDmhVZH4r/27XsciZLZFeGMTbx21ayLJZNf+aC23sZiHSi0zCRXIt1MCYL4elvT6tWx/yAAy9Al9MBZx1wqnWBi9LCWJ7u2iV2kEVKnYiV07ftm3q5Q8rQWQRndbCgNJqtCG2KACHPHiyK3VfEWu1hxkfzM2DAlC/xCxyHCmtoGAkUeQgF912Qa+37R6fRDrLMfyJuQ8cY2NEA3ML07vX6wz0CRNcceWo3W0KwvpkJTp4e0BEDEw97iwFyCzYgmuywhoJ+f+vkRPrWBV0eZw5m/c5tJ01MvS9FjYCjF~-1~-1~1626458861; Domain=.groupon.com; Path=/; Expires=Sat, 16 Jul 2022 17:07:45 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=54285FD637944F9C5F728EB55EC787E8~YAAQpFoauOO5Zl96AQAA79BJsAyUhJrHZeVQoMI60+Mcq0mr6+n6mNOG4NpEHas8qp8+b4SISn+6/JXuZWstP03jENRW0xYX5qpXrAdkBhTppeXUcWhOqDzWzwJQ/tsK69EDvQsSCPFEKcowydyz4TQc/HOlTOT41qzmBgGeMFJdG7XeOfS8IfGG3VjS88uhOCCcH4acBmkpzjc8N9Tjsa2SxLN79YRhYyUdP5y3RgGq6OGCkfSXwBHdRv0q0WpU+48IeEZLEGRmObB3WO1EFr2SjWocBga1Eryr+hM2+J39v/qa~4471093~3158595; Domain=.groupon.com; Path=/; Expires=Fri, 16 Jul 2021 21:07:45 GMT; Max-Age=14400
+X-Page-Id: 51b7747e-76a1-4b3f-b774-7e76a17b3faf-1626455265146-TH0
+Cache-Control: private, max-age=0, no-cache, no-store, must-revalidate
+X-Envoy-Upstream-Service-Time: 349
+X-Response-Served-From: deal--us-west-1--conveyor-production29
+X-Response-Served-From: routing-service--public--us-west-1--conveyor-production29
+X-Original-Request-Id: 3aac4e18-fcd2-4167-9591-75d78d692161
+X-Original-Request-Id: 3aac4e18-fcd2-4167-9591-75d78d692161
+X-External-Request-Id: true
+X-Request-Id: 3aac4e18-fcd2-4167-9591-75d78d692161
+X-B-Cookie: 2287c1b0-f0b2-a355-0a81-24be16fd03b2
+X-S-Cookie: 51b7747e-76a1-4b3f-b774-7e76a17b3faf
+X-Ua-Compatible: IE=edge,chrome=1
+X-Frame-Options: DENY
+X-Destination: deal_page_ita
+Content-Encoding: gzip
+X-Akamai-Transformed: 9 39865 0 pmb=mTOE,1
+Date: Fri, 16 Jul 2021 17:07:45 GMT
+Vary: Accept-Encoding, User-Agent
+Server: Groupon
+X-Treatment-Name: CONTROL
+X-Bucket-Value: 441
+Strict-Transport-Security: max-age=15768000

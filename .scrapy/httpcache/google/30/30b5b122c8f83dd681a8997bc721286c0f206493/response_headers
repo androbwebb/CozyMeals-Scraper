@@ -1,0 +1,16 @@
+Server: nginx
+Date: Fri, 16 Jul 2021 17:07:44 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+X-Pingback: https://theeffortlesschic.com/xmlrpc.php
+Link: <https://theeffortlesschic.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://theeffortlesschic.com/wp-json/wp/v2/posts/34082>; rel="alternate"; type="application/json"
+Link: <https://theeffortlesschic.com/?p=34082>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: MISS
+X-Cache-Group: normal
+Content-Encoding: gzip

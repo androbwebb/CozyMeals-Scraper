@@ -1,0 +1,39 @@
+Date: Fri, 16 Jul 2021 17:07:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 74
+X-Sorting-Hat-Shopid: 12013810
+X-Storefront-Renderer-Rendered: 1
+Content-Encoding: gzip
+Set-Cookie: secure_customer_sig=; path=/; expires=Sat, 16 Jul 2022 17:07:46 GMT; secure; HttpOnly
+Set-Cookie: cart_currency=USD; path=/; expires=Fri, 30 Jul 2021 17:07:46 GMT
+Set-Cookie: _shopify_evids=pv%3D8e2c39176bad212e3ef25e256c9179b9e90cffd2fb33d215be65f17d4d7929eb; path=/
+Set-Cookie: _orig_referrer=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dcooking%2Bclasses%2Baustin%26gws_rd%3Dssl; Expires=Fri, 30-Jul-21 17:07:46 GMT; Domain=fredaskitchen.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Fri, 30-Jul-21 17:07:46 GMT; Domain=fredaskitchen.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _y=abb25676-1e33-4b3d-a882-db6f9583a97a; Expires=Sat, 16-Jul-22 17:07:46 GMT; Domain=fredaskitchen.com; Path=/; SameSite=Lax
+Set-Cookie: _s=9f57c4e6-6b5c-4a1a-8616-9e12b994577e; Expires=Fri, 16-Jul-21 17:37:46 GMT; Domain=fredaskitchen.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=abb25676-1e33-4b3d-a882-db6f9583a97a; Expires=Sat, 16-Jul-22 17:07:46 GMT; Domain=fredaskitchen.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9f57c4e6-6b5c-4a1a-8616-9e12b994577e; Expires=Fri, 16-Jul-21 17:37:46 GMT; Domain=fredaskitchen.com; Path=/; SameSite=Lax
+Etag: cacheable:c1f15071c57127a95a85413dadeaee5e
+X-Alternate-Cache-Key: cacheable:64de70bc7b2ff3c6d2b75fd3b0404d24
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 12013810
+X-Shardid: 74
+Vary: Accept
+Content-Language: en
+X-Shopify-Stage: canary
+X-Dc: gcp-us-east1,gcp-us-east1,gcp-us-east1
+X-Request-Id: b77d8262-e13a-49ad-8909-a17b2092b4e8
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+Nel: {"report_to":"network-errors","max_age":2592000,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifysvc.com/v1/reports/nel/20190325/shopify"}]}
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 66fcd426e8395e84-IAD
+Alt-Svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400

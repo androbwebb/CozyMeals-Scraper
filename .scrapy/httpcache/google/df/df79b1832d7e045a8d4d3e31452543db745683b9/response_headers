@@ -1,0 +1,17 @@
+Date: Fri, 16 Jul 2021 17:07:46 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://fonts.gstatic.com>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1626455266.43056355606711629196
+Content-Language: en
+Strict-Transport-Security: max-age=120
+Age: 0
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss#dc#desc=42; Max-Age=20; Expires=Fri, 16 Jul 2021 17:08:06 GMT
+Set-Cookie: XSRF-TOKEN=1626455266|NHQms9j8F-N4; Path=/; Domain=www.eastaustinculinarystudio.com; Secure; SameSite=None
+Set-Cookie: TS01e85bed=01f0e931315d3d43d2c160bd88c6169079caee5805272d9d1786c38ddfaec0d6198f699e5086a87b26ffeec6e96be5d516852104db; Path=/;SameSite=none;Secure
+Set-Cookie: TS0149ed0a=01f0e931315d3d43d2c160bd88c6169079caee5805272d9d1786c38ddfaec0d6198f699e5086a87b26ffeec6e96be5d516852104db; path=/; domain=www.eastaustinculinarystudio.com;SameSite=none;Secure
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=42
+X-Seen-By: 6ivkWfREES4Y8b2pOpzk7Owfbs+7qUVAqsIx00yI78k=,sHU62EDOGnH2FBkJkG/Wx8EeXWsWdHrhlvbxtlynkVgAmI6NXu6WfqLI/M7f8tcV,m0j2EEknGIVUW/liY8BLLhkdZfWw5CPsRNG2uL+cjHAa0sM5c8dDUFHeNaFq0qDu,2d58ifebGbosy5xc+FRalqa4mfX0tDUOfqHGjjn0cGxlAfvmhkYmY+gpr17bS8fcDbJ7BCXDOD2zhHIJ0QaxLQ==,2UNV7KOq4oGjA5+PKsX47COQw3BjVFoMBu6hWXG/pBM=,qQbTLsvPZVUXp9HeAm/lzBlGEtXUYiF/Q4w30jCGTChYgeUJqUXtid+86vZww+nL,UCcefuQCi27dXmJSD6Vpi7/hfIfqqoxbUcNfFtRFGI8E61Z0ECZja6w7f+XRh1C+,qQbTLsvPZVUXp9HeAm/lzBlGEtXUYiF/Q4w30jCGTChYgeUJqUXtid+86vZww+nL,WcrWvzU6+v56AFbpVWES8q/9p6qrwts3uhxk/W8eu0QaWyug/ZdHQ36uOAkr89T0,LoUK8/saGAmOxZWtpubo2lmNbqyUlFTYDZNo0gnYbZwqC0yzI8QqwwJcRiugg+AlfsjSOTGB5d+Ot1UfnuB7gA==,WcrWvzU6+v56AFbpVWES8q/9p6qrwts3uhxk/W8eu0QaWyug/ZdHQ36uOAkr89T0,dvEkI3CoQ26/kOBf/eu3DNWQIRtdlegSX4LI8GHAQNdGp/J3MBzgzU8QHrQuh4zQ,/a5ccLSK1HEmwPNg/x6OulKQYQsNPpe9nf16/Q8pZV1cBsowB5rJIxmEdnRQKOJZdW06mYrjHP2q9u8sgQ1TaQ==
+Vary: Accept-Encoding
+Cache-Control: private,max-age=0,stale-while-revalidate=5
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip

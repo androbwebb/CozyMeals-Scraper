@@ -1,0 +1,20 @@
+Date: Fri, 16 Jul 2021 17:07:44 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+Link: <https://marymakesgood.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://marymakesgood.com/wp-json/wp/v2/posts/737>; rel="alternate"; type="application/json"
+Link: <https://wp.me/p8TbAf-bT>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: normal
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4NMbrF7D7NvuKooPL6Gky55gQOi6EOHBzrR7w%2F%2FsCRUHjzeKykiioww5wOZRid8LWSjGCq83UGRtqHuxf4NP76iA3zux9tILFWybyhEOuOraMxTTl%2B%2BHRsFrc3irixNFHmFtng%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 66fcd41b7c27cf48-IAD
+Content-Encoding: gzip
+Alt-Svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400

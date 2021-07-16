@@ -1,0 +1,21 @@
+Content-Length: 24715
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Last-Modified: Fri, 16 Jul 2021 17:07:39 GMT
+Accept-Ranges: bytes
+Date: Fri, 16 Jul 2021 17:07:46 GMT
+Age: 0
+Set-Cookie: gup_anonid=21d8daee-9f96-4f18-84ee-71aceeab8fbc; Domain=.www.austin360.com; Max-Age=31536000; Path=/; SameSite=Lax; Secure
+Set-Cookie: gup_clientid=e7661d6c-4644-408c-ab9c-846acbf4394c; Domain=.www.austin360.com; Max-Age=31536000; Path=/; SameSite=Lax; Secure
+Set-Cookie: gnt_ub=25; domain=.austin360.com; path=/; secure; samesite=lax; max-age=31536000;
+Set-Cookie: gnt_sb=5; domain=.austin360.com; path=/; secure; samesite=lax; max-age=31536000;
+Set-Cookie: gnt_eid=control:5:out-market; domain=.austin360.com; path=/; secure; samesite=lax; max-age=5184000;
+Cache-Control: no-store
+Gannett-Cam-Experience-Id: control:5:out-market
+Nel: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
+Report-To: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=63072000;includeSubDomains;preload
+X-Cache: MISS, MISS
+X-Timer: S1626455265.012673,VS0,VE1911
+Vary: X-AbVariant,X-AbVCfg,Accept-Encoding,User-Agent
