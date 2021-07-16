@@ -80,7 +80,7 @@ class CozymealSpider(scrapy.Spider):
         data['long_description'] = response.css('#about .panel-body::text').get()
         menu = []
         all_menu_items = response.css('#menu .panel-body *')
-        current_menu_item = current_menu_item = {}
+        current_menu_item = {}
         for menu_item_number, menu_item in enumerate(all_menu_items):
             text = menu_item.css('::text').get()
             if menu_item.root.tag == 'h4':
@@ -92,6 +92,7 @@ class CozymealSpider(scrapy.Spider):
                 current_menu_item['details'] = text
 
         data['menu'] = menu
+        data['menu_items'] = len(menu)
 
         data['details'] = {}
         for detail_item in response.css('#details .panel-body ul li'):
